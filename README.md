@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <div align="center">
-    <img height="150" src="https://discord.com/channels/@me/1115709719168946187/1154518948826578976" alt="RecipeList" border="0"/>
+    <img height="150" src="/assets/docs/logo.png" alt="RecipeList" border="0"/>
   </div>
   <h3 align="center">Recipe List</h3>
   <p align="center">
